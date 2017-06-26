@@ -68,7 +68,6 @@ namespace KamilCieślikLab1
         /// Metoda odtwarzajaca plik dzwiekowy z wybranej lokalizacji na dysku.
         /// Dzwiek odtwarzany kiedy uzytkownik sprobuje podzielic przez zero.
         /// </summary>
-
         public void LaughSoundGenerator()
         {
             var myPlayerEvilLaugh = new System.Media.SoundPlayer { SoundLocation = "evil_laugh.wav" };
