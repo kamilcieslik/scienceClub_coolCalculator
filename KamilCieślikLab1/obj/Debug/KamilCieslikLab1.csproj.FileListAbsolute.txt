@@ -1,0 +1,50 @@
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\KamilCieślikLab1.exe.config
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\KamilCieślikLab1.exe
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\KamilCieślikLab1.pdb
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.csproj.ResolveComReference.cache
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.Calculator.resources
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.Form1.resources
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.MathematicalCuriosities.resources
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.MathematicalDefinitions.resources
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.NewWindow.resources
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.Properties.Resources.resources
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.csproj.GenerateResource.Cache
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.exe
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.pdb
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\KamilCieślikLab1.exe.manifest
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\KamilCieślikLab1.application
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.exe.manifest
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.application
+C:\Users\Kamil Cieślik\Desktop\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\KamilCieślikLab1.exe.config
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.exe
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.pdb
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\KamilCieślikLab1.exe.manifest
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\KamilCieślikLab1.application
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\KamilCieślikLab1.exe
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\KamilCieślikLab1.pdb
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.MathematicalCuriosities.resources
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.MathematicalDefinitions.resources
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.exe.manifest
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.application
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.Calculator.resources
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.MainFrame.resources
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab1\zadanie domowe\KamilCieślikLab1\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.NewWindow.resources
+D:\Projects\C#\scienceClub_coolCalculator\KamilCieślikLab1\bin\Debug\KamilCieślikLab1.exe.config
+D:\Projects\C#\scienceClub_coolCalculator\KamilCieślikLab1\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Projects\C#\scienceClub_coolCalculator\KamilCieślikLab1\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Projects\C#\scienceClub_coolCalculator\KamilCieślikLab1\obj\Debug\KamilCieslikLab1.csproj.ResolveComReference.cache
+D:\Projects\C#\scienceClub_coolCalculator\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.exe
+D:\Projects\C#\scienceClub_coolCalculator\KamilCieślikLab1\obj\Debug\KamilCieślikLab1.pdb
